@@ -31,8 +31,30 @@ In 1965, Gordon Moore noticed that the number of components on an integrated cir
 For the next three decades, chipmakers shrank transistors on a steady schedule and got better speed, cost and energy use at once. That ran out around the mid-2000s, when leakage and heat stopped clock speeds from rising further, forcing an industry shift toward multi-core processors. The FinFET (Fin field-effect transistor), first described in the research literature around 2000, reached volume production in Intel's 22 nm chips in 2012 after being announced in 2011. Gate-all-around designs are now in production. TSMC (Taiwan Semiconductor Manufacturing Company) began volume production of its 2 nm node, its first gate-all-around nanosheet process, around the end of 2025. Chips have grown too, NVIDIA's H100 had about 80 billion transistors (2022), the B200 about 208 billion across two dies (2024), and the Rubin GPU announced in 2026 is reported to have about 336 billion
 
 3.  Engineering Viewpoint
-4.  
-5.  Business Viewpoint
-6. Ethical Reflection and Improvements
+Developing the transistor required a small, reliable switch that used little power and was cheap to manufacture in large numbers. Silicon replaced germanium because it tolerated higher temperatures and formed a stable, insulating oxide layer. This oxide protects sensitive junctions and separates a MOSFET’s gate from the semiconductor, allowing its electric field to control current flow (Riordan and Hoddeson, 1997). Jean Hoerni’s planar process enabled batch fabrication, while photolithography transferred patterns onto wafers so devices could undergo the same steps. Advances allowed millions of transistors to be manufactured together. Costs depended on chip area, process complexity and the proportion of working chips, rather than transistor count alone. Smaller transistors meant more devices in the same area and a lower cost per transistor.
+
+3.1 Integration and the “tyranny of numbers”
+As circuits grew, wiring separate components became difficult and unreliable. Every connection introduced a possible failure. Kilby’s first integrated circuit still used wires, whereas the planar approach formed components and interconnections on the same chip (Lécuyer, 2006). Less manual assembly reduced wiring errors, and shorter connections improved speed.
+
+3.2 MOSFET and CMOS: designing for power
+CMOS reduced power consumption through complementary transistors that switch in opposite states. A settled gate ideally has no conducting path directly from supply to ground. Most power is consumed during switching, although devices also leak current. Low static power consumption allowed more logic within thermal limits, helping CMOS dominate digital circuits.
+
+3.3 Scaling laws
+Moore’s Law described transistor counts roughly doubling at regular intervals. Dennard scaling explained how smaller transistors could operate faster without increasing power density, provided their dimensions and operating voltage decreased together (Dennard et al., 1974). For decades, these trends supported higher performance and lower costs per transistor without a corresponding increase in power density.
+
+3.4 Limits and adaptations
+As gate insulators became only a few atoms thick, leakage increased, while further voltage reductions threatened reliable switching. Dennard scaling broke down around 2005–2007 (Esmaeilzadeh et al., 2011). Chips could contain more transistors, but power limits prevented all from operating at full speed simultaneously. Esmaeilzadeh et al. projected that roughly a fifth of a chip at 22 nm, and over half at 8 nm, might remain powered off as “dark silicon.”
+
+Designers shifted towards multiple cores and specialised processors, including GPUs and AI accelerators. Transistor geometry changed: FinFETs place the gate around a raised silicon fin for better channel control (Hisamoto et al., 2000). Gate-all-around designs extend this approach.
+
+3.5 Engineering evaluation
+Progress depended on improvements in materials, device design and manufacturing, often at increasing cost. Fabrication demands expensive equipment and tighter process control. Smaller transistors still offer benefits, but no longer deliver the predictable speed and power improvements associated with Dennard scaling.
+
+3.6 Engineering outlook
+Scaling is expected to continue at greater cost. TSMC’s A16 process, featuring backside power delivery, reportedly shifted from late 2026 to 2027; A14 is targeted for 2028 (SemiEngineering, 2026). Imec places CFETs at the A7 generation and two-dimensional channel materials later, with contacts, doping and integration still unresolved (imec, n.d.)
+As chips approach the reticle limit, chiplets, high-bandwidth memory and advanced packaging offer further gains. Capacity remains a constraint for technologies such as TSMC’s 5.5-reticle CoWoS (SemiEngineering, 2026; TrendForce, 2026b). TSMC’s COUPE brings optical connections into packages (SemiEngineering, 2026).
+Neuromorphic photonic systems still require electronic control and conversion; their energy advantages over GPUs lack comparable benchmarking (Bile, 2026). IBM’s and Google’s quantum milestones around 2030 remain company targets, not delivered results (Andes Qubit, 2026).
+6.  Business Viewpoint
+7. Ethical Reflection and Improvements
 Conclusion: 
 References
