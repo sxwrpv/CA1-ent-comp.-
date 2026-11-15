@@ -44,17 +44,38 @@ Moore’s Law described transistor counts roughly doubling at regular intervals.
 
 3.4 Limits and adaptations
 As gate insulators became only a few atoms thick, leakage increased, while further voltage reductions threatened reliable switching. Dennard scaling broke down around 2005–2007 (Esmaeilzadeh et al., 2011). Chips could contain more transistors, but power limits prevented all from operating at full speed simultaneously. Esmaeilzadeh et al. projected that roughly a fifth of a chip at 22 nm, and over half at 8 nm, might remain powered off as “dark silicon.”
-
 Designers shifted towards multiple cores and specialised processors, including GPUs and AI accelerators. Transistor geometry changed: FinFETs place the gate around a raised silicon fin for better channel control (Hisamoto et al., 2000). Gate-all-around designs extend this approach.
 
 3.5 Engineering evaluation
 Progress depended on improvements in materials, device design and manufacturing, often at increasing cost. Fabrication demands expensive equipment and tighter process control. Smaller transistors still offer benefits, but no longer deliver the predictable speed and power improvements associated with Dennard scaling.
 
 3.6 Engineering outlook
-Scaling is expected to continue at greater cost. TSMC’s A16 process, featuring backside power delivery, reportedly shifted from late 2026 to 2027; A14 is targeted for 2028 (SemiEngineering, 2026). Imec places CFETs at the A7 generation and two-dimensional channel materials later, with contacts, doping and integration still unresolved (imec, n.d.)
-As chips approach the reticle limit, chiplets, high-bandwidth memory and advanced packaging offer further gains. Capacity remains a constraint for technologies such as TSMC’s 5.5-reticle CoWoS (SemiEngineering, 2026; TrendForce, 2026b). TSMC’s COUPE brings optical connections into packages (SemiEngineering, 2026).
-Neuromorphic photonic systems still require electronic control and conversion; their energy advantages over GPUs lack comparable benchmarking (Bile, 2026). IBM’s and Google’s quantum milestones around 2030 remain company targets, not delivered results (Andes Qubit, 2026).
-6.  Business Viewpoint
+Scaling is expected to continue at greater cost. TSMC’s A16 process, featuring backside power delivery, reportedly shifted from late 2026 to 2027; A14 is targeted for 2028. Imec places CFETs at the A7 generation and two-dimensional channel materials later, with contacts, doping and integration still unresolved.
+As chips approach the reticle limit, chiplets, high-bandwidth memory and advanced packaging offer further gains. Capacity remains a constraint for technologies such as TSMC’s 5.5-reticle CoWoS. TSMC’s COUPE brings optical connections into packages.
+Neuromorphic photonic systems still require electronic control and conversion; their energy advantages over GPUs lack comparable benchmarking, IBM’s and Google’s quantum milestones around 2030 remain company targets.
+
+4. Business Viewpoint
+Licensing and the spread of the technology
+The business story starts with an unusual decision. Bell Labs belonged to AT&T, a regulated monopoly. From late 1951, Bell offered transistor licences for $25,000 each and invited licensees to a symposium to learn the technology (PBS, n.d.-a). In 1956, AT&T settled a US antitrust case with a consent decree that made its existing patents available royalty-free and required future patents to be licensed at reasonable royalties. About 7,800 patents were affected, most of them from Bell Labs. Watzinger et al. argue that opening up the patents encouraged follow-on innovation. This causal claim is an interpretation, 
+since military demand was also at work.
+
+4.1 Silicon Valley and the spin-off model
+William Shockley left Bell Labs to found Shockley Semiconductor Laboratory in Mountain View, California, in 1956. His management style was unpopular, and in 1957 eight of his engineers, later nicknamed the "traitorous eight", left. With funding from Sherman Fairchild's Fairchild Camera and Instrument, they formed Fairchild Semiconductor in September 1957. Fairchild became the training ground of the industry. Noyce and Moore left in 1968 to found Intel, and many other founders and executives followed in a chain of spin-offs. Knowledge travelled with people, and venture-style funding backed them.
+
+4.2 Moore's Law as business strategy
+Moore's Law is often described as a law of nature, but business analysts treat it more like a coordination device. Every generation was expected to double density at a lower cost per transistor, so companies planned products, factories and research budgets around that rhythm. Firms that fell behind were soon priced out, which made the law partly self-fulfilling. Early military and space buyers helped firms move down the learning curve, lower costs widened demand, and demand paid for the next generation of manufacturing.
+
+4.3 Capital intensity and the foundry model
+The same forces that made progress fast also made it expensive. Leading-edge fabs now run to many billions of dollars, and only a handful of companies can afford them. In 1987 Morris Chang founded TSMC as the first dedicated foundry, a company that makes chips for other firms and does not design its own (Miller, 2022). The industry split into "fabless" design firms, such as NVIDIA, AMD and Qualcomm, and the manufacturers. The model lowered the barrier for designers and set off a wave of innovation, but it also concentrated manufacturing in very few hands.
+
+4.4 Value capture and concentration
+Today the leading-edge supply chain runs through a few chokepoints. ASML in the Netherlands is the only commercial supplier of extreme ultraviolet lithography machines and expected to ship about 60 of them in 2026 (RTÉ, 2026). TSMC in Taiwan took about 72.5% of global foundry revenue in the second quarter of 2026 (TrendForce, 2026a), and Miller (2022) describes it as making most of the world's most advanced logic chips. AlixPartners (2021) forecast that the 2021 chip shortage would cost the car industry about US$210 billion in revenue and 7.7 million vehicles of production. It is a forecast, and chips were only one of several disruptions, but it shows how a hidden dependency can suddenly stop whole industries.
+
+4.5 Business evaluation
+From a business angle, the transistor is an enabling technology whose importance was shaped by market structure: permissive licensing and mobile talent produced extraordinary growth, and the same dynamics later produced concentration and a fragile supply chain.
+
+4.6 Business outlook
+The forecasts depend heavily on AI demand. WSTS (2026) raised its 2026 forecast from US$975 billion in December 2025 to about US$1.51 trillion, with memory up roughly 250% (BigGo Finance, 2026), and expects US$1.9 trillion in 2027. Part of this reflects price rises as much as extra units. Gartner forecasts DRAM prices up 125% and NAND up 234% in 2026 and puts 2026 revenue lower, above US$1.3 trillion (Intelligent CIO, 2026). The IEA (2026) expects data-centre electricity use to roughly double by 2030, and capital-heavy firms carry the most risk if demand slows. Intel, for example, plans 14A volume production in 2028 (Tom's Hardware, 2026) but is reported to tie the capital for it to external customer commitments (Tech Times, 2026).
 7. Ethical Reflection and Improvements
 Conclusion: 
 References
