@@ -78,4 +78,67 @@ From a business angle, the transistor is an enabling technology whose importance
 The forecasts depend heavily on AI demand. WSTS (2026) raised its 2026 forecast from US$975 billion in December 2025 to about US$1.51 trillion, with memory up roughly 250% (BigGo Finance, 2026), and expects US$1.9 trillion in 2027. Part of this reflects price rises as much as extra units. Gartner forecasts DRAM prices up 125% and NAND up 234% in 2026 and puts 2026 revenue lower, above US$1.3 trillion (Intelligent CIO, 2026). The IEA (2026) expects data-centre electricity use to roughly double by 2030, and capital-heavy firms carry the most risk if demand slows. Intel, for example, plans 14A volume production in 2028 (Tom's Hardware, 2026) but is reported to tie the capital for it to external customer commitments (Tech Times, 2026).
 7. Ethical Reflection and Improvements
 Conclusion: 
+
+
+
 References
+AlixPartners (2021) 'Shortages related to semiconductors to cost the auto industry $210 billion in revenues this year, says new AlixPartners forecast', AlixPartners, 23 September.
+Alberico, I. (2026) 'The Right to Repair Directive: what changes on 31 July?', Right to Repair Europe, 30 July.
+Alvarez, E., Mehta, V. and Ghodsian, F. (2026) 'Inside NVIDIA Rubin GPU architecture: powering the era of agentic AI', NVIDIA Technical Blog, 21 July.
+AndesQubit Research (2026) 'Quantum computing roadmap 2026 to 2030: IBM, Google, rivals', Andes Qubit, 23 September.
+ASML (2026) ASML reports Q2 2026 financial results, 15 July.
+Baldé, C.P. et al. (2024) The global e-waste monitor 2024. Geneva and Bonn: International Telecommunication Union and United Nations Institute for Training and Research.
+Bile, A. (2026) 'Recent advances in neuromorphic photonics: devices, architectures, and physical learning systems (2022–2026)', Applied Physics Reviews, 13(3), 031339.
+Cass, S. (2018) 'Chip Hall of Fame: Intel 4004 microprocessor', IEEE Spectrum, 2 July.
+CHIPS and Science Act 2022, Pub. L. No. 117-167, 136 Stat. 1366.
+Computer History Museum (n.d.a) '1947: Invention of the point-contact transistor', The Silicon Engine.
+Computer History Museum (n.d.b) '1951: First grown-junction transistors fabricated', The Silicon Engine.
+Computer History Museum (n.d.c) '1954: Silicon transistors offer superior operating characteristics', The Silicon Engine.
+Computer History Museum (n.d.d) '1959: Invention of the "planar" manufacturing process', The Silicon Engine.
+Computer History Museum (n.d.e) '1959: Practical monolithic integrated circuit concept patented', The Silicon Engine.
+Computer History Museum (n.d.f) '1960: Metal oxide semiconductor (MOS) transistor demonstrated', The Silicon Engine.
+Computer History Museum (n.d.g) '1963: Complementary MOS circuit configuration is invented', The Silicon Engine.
+Computer History Museum (n.d.h) '1965: "Moore's Law" predicts the future of integrated circuits', The Silicon Engine.
+Courtland, R. (2011) 'Intel's new transistors enter the third dimension', IEEE Spectrum, 4 May.
+Dennard, R.H., Gaensslen, F.H., Yu, H.-N., Rideout, V.L., Bassous, E. and LeBlanc, A.R. (1974) 'Design of ion-implanted MOSFET's with very small physical dimensions', IEEE Journal of Solid-State Circuits, 9(5), pp. 256–268.
+Directive (EU) 2024/1799 of the European Parliament and of the Council of 13 June 2024 on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394 and Directives (EU) 2019/771 and (EU) 2020/1828 (2024) Official Journal of the European Union, L, 2024/1799, 10 July.
+Esmaeilzadeh, H., Blem, E., St. Amant, R., Sankaralingam, K. and Burger, D. (2011) 'Dark silicon and the end of multicore scaling', in Proceedings of the 38th Annual International Symposium on Computer Architecture (ISCA '11). New York: ACM, pp. 365–376.
+European Commission (2026) Proposal for the Chips Act 2.0, 3 June.
+Forti, V., Baldé, C.P., Kuehr, R. and Bel, G. (2020) The global e-waste monitor 2020: quantities, flows and the circular economy potential. Bonn, Geneva and Rotterdam: United Nations University, United Nations Institute for Training and Research, International Telecommunication Union and International Solid Waste Association.
+Gartner (2026a) 'Gartner forecasts worldwide semiconductor revenue to exceed $1.3 trillion in 2026', Gartner Newsroom, 8 April.
+Gartner (2026b) 'Gartner forecasts worldwide semiconductor revenue to reach $1.6 trillion in 2026', Gartner Newsroom, 24 August.
+Hisamoto, D., Lee, W.-C., Kedzierski, J., Takeuchi, H., Asano, K., Kuo, C., Anderson, E., King, T.-J., Bokor, J. and Hu, C. (2000) 'FinFET – a self-aligned double-gate MOSFET scalable to 20 nm', IEEE Transactions on Electron Devices, 47(12), pp. 2320–2325.
+IEA (2026) Key questions on energy and AI. Paris: International Energy Agency, 16 April.
+Infosys Knowledge Institute (2025) Semiconductor industry outlook 2025. Bangalore: Infosys.
+Intel Corporation (2011) 'Intel reinvents transistors using new 3-D structure', Intel Corporation, 4 May.
+Intel Corporation (2025) 'Intel and Trump Administration reach historic agreement to accelerate American technology and manufacturing leadership', Exhibit 99.1 to Form 8-K, 22 August.
+Intel Corporation (n.d.) 'Moore's Law', Intel.
+Lazenby, O. (2026) 'Intel begins tool move-in at Fab 62 as 14A customer window and tax credit deadline converge', Tech Times, 22 October.
+Lécuyer, C. (2006) Making Silicon Valley: innovation and the growth of high tech, 1930–1970. Cambridge, MA: MIT Press.
+Lockhart de la Rosa, C.J. and Kar, G.S. (2025) 'Introducing 2D-material based devices in the logic scaling roadmap', imec, 16 January. 
+Mack, C.A. (2011) 'Fifty years of Moore's law', IEEE Transactions on Semiconductor Manufacturing, 24(2), pp. 202–207.
+Marsh, A. (2024) 'The incredible story behind the first transistor radio', IEEE Spectrum, 30 September.
+Mathieu, E. (2024) 'Moore's law has accurately predicted the progress in transistor counts over the last 50 years', Our World in Data, 15 April.
+Moore, G.E. (1965) 'Cramming more components onto integrated circuits', Electronics, 38(8), pp. 114–117.
+Noack, M. (2016) 'Chronicling the dirty side of "Techville"', Mountain View Voice, 30 August.
+Nobel Prize Outreach (2026a) 'The Nobel Prize in Physics 1956', NobelPrize.org.
+Nobel Prize Outreach (2026b) 'The Nobel Prize in Physics 2000', NobelPrize.org.
+NVIDIA (2022) 'NVIDIA announces Hopper architecture, the next generation of accelerated computing', NVIDIA Newsroom, 22 March.
+NVIDIA (2024) 'NVIDIA Blackwell platform arrives to power a new era of computing', NVIDIA Newsroom, 18 March.
+Pangrle, B. (2026) 'TSMC Tech Symposium 2026, by the numbers', Semiconductor Engineering, 27 April.
+Regulation (EU) 2023/1781 of the European Parliament and of the Council of 13 September 2023 establishing a framework of measures for strengthening Europe's semiconductor ecosystem and amending Regulation (EU) 2021/694 (Chips Act) (2023) Official Journal of the European Union, L 229, 18 September, pp. 1–53.
+Reuters (1996) 'Celebrating 50 years of the Information Age', The Christian Science Monitor, 9 February.
+Riordan, M. and Hoddeson, L. (1997) Crystal fire: the birth of the information age. New York: W.W. Norton.
+Robinson, D. (2026) 'Intel bit off more than it could chew with 18A process node', The Register, 3 June.
+RTÉ (2026) 'ASML lifts 2026 forecast as surging AI demand boosts new orders for chip equipment'
+Samsung Electronics (2022) 'Samsung begins chip production using 3nm process technology with GAA architecture', Samsung Global Newsroom, 30 June.
+ScienCentral and American Institute of Physics (1999a) 'Deciding to share', Transistorized! PBS Online.
+ScienCentral and American Institute of Physics (1999b) 'The first silicon transistor', Transistorized! PBS Online.
+Tanner, B. (2026) 'Gartner predicts worldwide semiconductor revenue to exceed US$1.3 trillion in 2026', Intelligent CIO, 13 April.
+Trader, T. (2016) 'Transistors won't shrink beyond 2021, says final ITRS report', HPCwire, 28 July.
+TrendForce (2026a) 'Global foundry revenue approaches US$53.49 billion in 2Q26 as SMIC narrows market share gap with Samsung, says TrendForce', TrendForce, 9 September.
+TrendForce (2026b) 'TSMC CoWoS supply-demand gap reportedly seen narrowing from 20% to 10% by end-2026', TrendForce News, 15 June.
+TSMC (n.d.) '2nm technology', TSMC.
+Watzinger, M., Fackler, T.A., Nagler, M. and Schnitzer, M. (2020) 'How antitrust enforcement can spur innovation: Bell Labs and the 1956 Consent Decree', American Economic Journal: Economic Policy, 12(4), pp. 328–359.
+WSTS (2025) 'Global semiconductor market approaches $1T in 2026', World Semiconductor Trade Statistics, December.
+WSTS (2026) 'Global semiconductor market surges beyond $1.5T 2026', World Semiconductor Trade Statistics, 2 June.
