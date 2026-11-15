@@ -142,3 +142,5 @@ TSMC (n.d.) '2nm technology', TSMC.
 Watzinger, M., Fackler, T.A., Nagler, M. and Schnitzer, M. (2020) 'How antitrust enforcement can spur innovation: Bell Labs and the 1956 Consent Decree', American Economic Journal: Economic Policy, 12(4), pp. 328–359.
 WSTS (2025) 'Global semiconductor market approaches $1T in 2026', World Semiconductor Trade Statistics, December.
 WSTS (2026) 'Global semiconductor market surges beyond $1.5T 2026', World Semiconductor Trade Statistics, 2 June.
+
+research and referencing was done with local alliterated LLM with auto log clearance so prompt history is unavailable
